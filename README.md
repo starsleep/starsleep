@@ -23,7 +23,3 @@ I'm a **Machine Vision Developer** specializing in **C++**, **C#**, and **OpenCV
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 🌟 Featured Projects  
-1. **Defect Detection Pipeline** - [Link](#)
-2. **Interactive Image Viewer** - [Link](#)
