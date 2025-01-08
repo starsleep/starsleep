@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub!  
-I'm a **Machine Vision Developer** specializing in **C++**, **C#**, and **OpenCV**.  
+I'm a **Computer Vision Developer** specializing in **C++**, **C#**, and **OpenCV**.  
 
 ---
 
