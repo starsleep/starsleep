@@ -1,12 +1,12 @@
 # 🚀 Welcome to My GitHub!  
 I'm a **Computer Vision Developer** specializing in **C++**, **C#**, and **OpenCV**.  
 
-* 호서대학교
-  * 시스템 제어공학과
-  * 17/02 ~ 23/02
-* 한양대학교 인공지능융합대학원
-  * 인공지능 시스템 학과
-  * 25/02 ~
+* HOSEO University 호서대학교
+  * Department of System and Control Engineering (시스템 제어공학)
+  * 17.02 ~ 23.02
+* Hanyang University 한양대학교 인공지능융합대학원
+  * Department of Artificial Intelligence Systems (인공지능 시스템)
+  * 25.02 ~
 
 ---
 
