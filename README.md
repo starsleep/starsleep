@@ -1,10 +1,10 @@
-# 🚀 Welcome to My GitHub!  
-I'm a **Computer Vision Developer** specializing in **C++**, **C#**, and **OpenCV**.  
+# 🚀 Computer Vision Developer  
 
-* HOSEO University 호서대학교
+* **Hoseo University** 호서대학교
   * Department of System and Control Engineering (시스템 제어공학)
   * 17.02 ~ 23.02
-* Hanyang University 한양대학교 인공지능융합대학원
+    
+* **Hanyang University** 한양대학교 인공지능융합대학원
   * Department of Artificial Intelligence Systems (인공지능 시스템)
   * 25.02 ~
 
@@ -34,6 +34,6 @@ I'm a **Computer Vision Developer** specializing in **C++**, **C#**, and **OpenC
 
 ---
 
-## Project ##
+## Project
 
 ### SDI 전고체 배터리 외관 검사 SW 개발 ###
