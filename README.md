@@ -30,21 +30,31 @@
 ## 💼 Project
 
 #### 차세대 전고체 배터리 외관 비전 검사 SW 개발
-* 22.08 ~ 24.01
-* C++ & MFC
+* 기간
+  * 22.08 ~ 24.01
+* 기술 스택
+  * C++
+  * MFC
+  * OpenCV
 
 #### 이차전지 STACK 공정 비전 검사 SW 개발
-* 22.08 ~ 24.01
-* C++ & MFC
+* 23.05 ~ 23.08
+* 기술 스택
+  * C++
+  * MFC
+  * OpenCV
 
 #### SMT 반도체 비전 검사 SW 개발
-* 22.08 ~ 24.01
-* C++ & MFC
+* 24.01 ~ 25.01
+* 기술 스택
+  * C++
+  * C#
+  * WPF / Avalonia
 
 ---
 
 ## 📖 Currently Learning  
-- **Deep Learning for Computer Vision**
+- **Deep Learning for Computer Vision** 
 - **Visual - SLAM**
 - **CUDA**
 - **SIMD**
