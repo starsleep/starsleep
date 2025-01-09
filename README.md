@@ -23,3 +23,7 @@ I'm a **Computer Vision Developer** specializing in **C++**, **C#**, and **OpenC
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+
+## Project ##
+
+### SDI 전고체 배터리 외관 검사 SW 개발 ###
