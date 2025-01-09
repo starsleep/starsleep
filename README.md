@@ -1,5 +1,8 @@
 # 🚀 Computer Vision Developer  
 
+✉️ qkrtmddn0507@gmail.com
+
+### ✏ Education
 * **Hoseo University** 호서대학교
   * Department of System and Control Engineering (시스템 제어공학)
   * 17.02 ~ 23.02
@@ -24,13 +27,23 @@
 
 ---
 
-## Project
+## 💼 Project
 
-### SDI 전고체 배터리 외관 검사 SW 개발 ###
+#### 차세대 전고체 배터리 외관 비전 검사 SW 개발
+* 22.08 ~ 24.01
+* C++ & MFC
+
+#### 이차전지 STACK 공정 비전 검사 SW 개발
+* 22.08 ~ 24.01
+* C++ & MFC
+
+#### SMT 반도체 비전 검사 SW 개
+* 22.08 ~ 24.01
+* C++ & MFC
 
 ---
 
-## 📚 Currently Learning  
+## 📖 Currently Learning  
 - **Deep Learning for Computer Vision**
 - **Visual - SLAM**
 - **CUDA**
