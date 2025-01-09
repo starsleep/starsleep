@@ -7,22 +7,12 @@
 * **Hanyang University** 한양대학교 인공지능융합대학원
   * Department of Artificial Intelligence Systems (인공지능 시스템)
   * 25.02 ~
-
 ---
 
 ## ⚡ Tech Stack  
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-
----
-
-## 📚 Currently Learning  
-- **Deep Learning for Computer Vision**
-- **Visual - SLAM**
-- **CUDA**
-- **SIMD**
 
 ---
 
@@ -37,3 +27,12 @@
 ## Project
 
 ### SDI 전고체 배터리 외관 검사 SW 개발 ###
+
+---
+
+## 📚 Currently Learning  
+- **Deep Learning for Computer Vision**
+- **Visual - SLAM**
+- **CUDA**
+- **SIMD**
+
