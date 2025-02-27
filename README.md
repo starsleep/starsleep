@@ -30,7 +30,7 @@
 
 ---
 
-## 📖 Currently Learning  
+## 📖 Work experience
 - **Deep Learning for Computer Vision** 
 - **Visual - SLAM**
 - **CUDA**
